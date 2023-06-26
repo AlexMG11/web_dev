@@ -1,0 +1,52 @@
+#main
+{
+    
+    width: 60%;
+    height: 60%;
+    overflow: auto;
+    margin:auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    border: solid black;
+    background-color: aqua;
+    text-align: center;
+}
+#secondary
+{
+    width: 40%;
+    height: 50%;
+    overflow: auto;
+    margin-top: 5%;
+    margin-left:auto;
+    margin-right: auto;
+    
+    position: relative;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background-color: aqua;
+}
+#main h1{
+    text-align: center;
+    padding-top: 2vh;
+    font-size: 250%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#main h2{
+    text-align: center;
+    padding-top: 3vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+div img{
+    display: block;
+    height:100%;
+    width:100%;
+    
+
+   
+}
+body{
+    background-color: aquamarine;
+}

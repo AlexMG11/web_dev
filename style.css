@@ -1,0 +1,54 @@
+/* *{
+    text-align: center;
+}
+
+p{
+    color:red
+}
+
+#id-select{
+    color:green;
+}
+
+li[value = "4"]{
+    color:blue;
+}
+
+.note{
+    font-size: 20px;
+} */
+
+.square{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    white-space:normal;
+}
+p{
+    margin:0;
+}
+
+#first{
+    background-color: cadetblue;
+    text-align: left;
+    padding:20px;
+    border: 10px solid black;
+    
+    
+}
+
+#second{
+    background-color: yellow;
+    
+    border-top: 20px solid black;
+    border-left:10px solid black;
+    border-right:10px solid black;
+    border-bottom: 20px solid black;
+    margin-left:260px
+}
+
+#third{
+    background-color: brown;
+    margin-left: 40px;
+    border: 10px solid black;
+}
